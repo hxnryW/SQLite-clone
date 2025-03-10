@@ -1,0 +1,10 @@
+db > EXECUTED.
+Error: table full.
+db > Error reading input
+db > EXECUTED.
+Error: table full.
+db > Error reading input
+db > EXECUTED.
+Error: table full.
+db > Error reading input
+db > 
